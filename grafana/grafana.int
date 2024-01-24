@@ -1,0 +1,10 @@
+[security]
+admin_password = Mutosi@2025!@
+[server]
+domain = bimts-monitoring.mutosi.com
+#cert_file = /opt/nginx-custom/bundle.crt
+#cert_key = /opt/nginx-custom/private.key
+#protocol = https
+#http_addr = 10.5.10.211
+#http_port = 80
+#root_url = %(protocol)s://%(domain)s:%(http_port)s/grafana/
